@@ -43,5 +43,7 @@ public class SendEmailConsumer {
         mailMessage.setSubject(welcomeUserDto.getSubject());
         mailMessage.setText(welcomeUserDto.getBody());
         mailSender.send(mailMessage);
+        System.out.println("Mail sent successfully");
     }
 }
+ 

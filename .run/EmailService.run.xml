@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EmailService" type="Application" factoryName="Application">
+    <envs>
+      <env name="EMAIL_USERNAME" value="abhi94friends@gmail.com" />
+      <env name="EMAIL_PASSWORD" value="hwhl vqhb vlso fyxf" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="dev.Abhishek.EmailService.EmailServiceApplication" />
+    <module name="EmailService" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
